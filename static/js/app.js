@@ -123,5 +123,3 @@ function optionChanged(newSample) {
 // Initialize the dashboard
 init();
 
-// Update Metadata and Charts when a new sample is selected from dropdown
-// d3.selectAll("#selDataset").on("change", optionChanged);
