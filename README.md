@@ -8,6 +8,6 @@ The assignment asks to build a dashboard using Javascript and sample data from t
 
 ## Coding and Output
 
-The code has been annotated with comments for clarity. The focus of the Javascript code was to pull data from a JSON file and convert it to an interactive webpage to review the data. The outputs in this assigment was having a dropdown list to select test subjects and thier relevant data has been displayed as Table, Hoarizontal bar chart and bubble chart, as shown in the screen shot below:
+The code has been annotated with comments for clarity. The focus of the Javascript code was to pull data from a JSON file and convert it to an interactive webpage to review the data. The output in this assignment had a dropdown list to select test subjects and their relevant data has been displayed as a Table, Horizontal bar chart and bubble chart, as shown in the screenshot below:
 
-![Screenshot of Daashboard](
+![Screenshot of Dashboard](output/dashboard_screenshot.png)
